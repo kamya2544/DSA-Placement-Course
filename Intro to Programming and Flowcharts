@@ -1,0 +1,13 @@
+# FLOWCHART: Diagramatic Representation of our approch to solve the problem.
+            COMPONENTS OF FLOWCHART:
+            1) Terminator: Represent Start or End (ellipse)
+            2) Input/ Output (parallelogram)
+            3) Process (rectangle)
+            4) Decision making Block: yes or no output (Diamond/Rhombic Shape)
+            5) Arrows: represent flow and connect different blocks
+            5) Connector (circle)
+
+# PSEUDOCODE: Generic way of representing logic 
+            : in english, can be followed for any language (stays same for every language)
+
+#  
